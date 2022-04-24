@@ -1,0 +1,11 @@
+C:\Users\Vasya\Documents\Projects\6666666\6666666\obj\x86\Debug\6666666.csprojResolveAssemblyReference.cache
+C:\Users\Vasya\Documents\Projects\6666666\6666666\bin\Debug\6666666.exe
+C:\Users\Vasya\Documents\Projects\6666666\6666666\bin\Debug\6666666.pdb
+C:\Users\Vasya\Documents\Projects\6666666\6666666\obj\x86\Debug\6666666.exe
+C:\Users\Vasya\Documents\Projects\6666666\6666666\obj\x86\Debug\6666666.pdb
+E:\6666666\6666666\bin\Debug\6666666.exe
+E:\6666666\6666666\bin\Debug\6666666.pdb
+E:\6666666\6666666\obj\x86\Debug\6666666.csproj.AssemblyReference.cache
+E:\6666666\6666666\obj\x86\Debug\6666666.csproj.CoreCompileInputs.cache
+E:\6666666\6666666\obj\x86\Debug\6666666.exe
+E:\6666666\6666666\obj\x86\Debug\6666666.pdb
